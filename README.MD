@@ -4,6 +4,10 @@ O curso do Téo Calvo que eu consumi para aprender a trabalhar com versionamento
 
 Também trabalhamos com GitFlow ao final do curso e VSCode.
 
+Todo o conteúdo do Téo esta disponúvel no youtube.
+
+[Curso Git 2025] (kttps://youtube.com@teomewhy)
+
 --
 
 Nova informação adicionada
