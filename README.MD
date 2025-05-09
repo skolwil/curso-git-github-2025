@@ -8,6 +8,10 @@ Todo o conteúdo do Téo esta disponúvel no youtube.
 
 [Curso Git 2025] (kttps://youtube.com@teomewhy)
 
+Se liguem no canal do cara! É muito bom! Segue a agenda dele:
+
+[teomewhy.org](https://teomewhy.org/schedule) 
+
 --
 
 Nova informação adicionada
