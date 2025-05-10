@@ -12,6 +12,10 @@ Se liguem no canal do cara! É muito bom! Segue a agenda dele:
 
 [teomewhy.org](https://teomewhy.org/schedule) 
 
+Além do youtube, site e agenda, o cara tá deixando tudo organizado em um PDI animal
+
+[teomewhy.org](https://teomewhy.org)
+
 --
 
 Nova informação adicionada
